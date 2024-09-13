@@ -9,7 +9,7 @@
 
 ## **PROFILE**
 
-**Blockchain Innovator** | **Community Builder** | **AI Enthusiast**
+**Blockchain Innovator** | **Business Analyst** | **AI Enthusiast**
 
 Passionate IT professional with over a decade of experience spanning software development, agile methodologies, and blockchain ecosystems. Expertise in business analysis, education, community building, "decentralized" governance, and integrating AI solutions. Seeking an IT role to leverage technical skills and drive innovation.
 
@@ -54,12 +54,13 @@ Passionate IT professional with over a decade of experience spanning software de
 
 - Initiated the development of FUDPLUG, envisioning a MetaMask-like experience for Bitcoin users.
 - Integrated AI agents to enhance UX through natural language processing.
-- Developed anti-fraud mechanisms and full node tooling.
-- Launched an MVP non-custodial SSO protocol for Bitcoin applications.
+- Developing anti-fraud mechanisms and full node tooling.
+- MVP is a non-custodial SSO protocol for Bitcoin applications.
 
 ### **Founder & Artist, TAROrdinals (@TAROrdinals)**  
 *2023 – Present | Berlin, Germany*
 
+- Conjured "The Eternal Tarot" Ordinals Collection [ [Parent Inscription](https://ordinals.com/inscription/69027003) | [Collection Link](https://magiceden.io/ordinals/marketplace/the-eternal-tarot) ]
 - Explored artistic expressions on the Bitcoin blockchain.
 - Combined blockchain technology with visual arts to produce unique digital works.
 
