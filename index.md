@@ -44,7 +44,7 @@ Passionate IT professional with over a decade of experience spanning software de
 - Project Management
 - Business Analysis
 - Public Speaking & Advocacy
-- Multilingual Communication (English, German, Czech)
+- Multilingual Communication (English, German, French)
 
 
 ## **EXPERIENCE**
@@ -135,9 +135,9 @@ Available upon request.
 
 ## **CONTACT**
 
-- **Email:** dan.v@example.com
+- **Email:** dan@moonity.org
 - **LinkedIn:** [linkedin.com/in/dan-v-89120511](https://www.linkedin.com/in/dan-v-89120511)
-- **Twitter:** [@TAROrdinals](https://twitter.com/TAROrdinals) | [@SaferSats(https://twitter.com/SaferSats)
+- **Twitter:** [@TAROrdinals](https://twitter.com/TAROrdinals) | [@SaferSats](https://twitter.com/SaferSats)
 
 ---
 
