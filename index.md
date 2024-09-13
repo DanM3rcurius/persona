@@ -60,7 +60,7 @@ Passionate IT professional with over a decade of experience spanning software de
 ### **Founder & Artist, TAROrdinals (@TAROrdinals)**  
 *2023 – Present | Berlin, Germany*
 
-- Conjured "The Eternal Tarot" Ordinals Collection [ [Parent Inscription](https://ordinals.com/inscription/69027003) | [Collection Link](https://magiceden.io/ordinals/marketplace/the-eternal-tarot) ]
+- Conjured "The Eternal Tarot" Ordinals Collection [ [Parent Inscription](https://ordinals.com/inscription/69027003) / [Collection Link](https://magiceden.io/ordinals/marketplace/the-eternal-tarot) ]
 - Explored artistic expressions on the Bitcoin blockchain.
 - Combined blockchain technology with visual arts to produce unique digital works.
 
@@ -137,7 +137,7 @@ Available upon request.
 
 - **Email:** dan@moonity.org
 - **LinkedIn:** [linkedin.com/in/dan-v-89120511](https://www.linkedin.com/in/dan-v-89120511)
-- **Twitter:** [@TAROrdinals](https://twitter.com/TAROrdinals) | [@SaferSats](https://twitter.com/SaferSats)
+- **Twitter:** [@TAROrdinals](https://twitter.com/TAROrdinals) / [@SaferSats](https://twitter.com/SaferSats)
 
 ---
 
