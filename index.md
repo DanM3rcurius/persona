@@ -1,9 +1,6 @@
 # **DAN VEROWSKI**
 
-**Email:** dan@moonity.org
-**LinkedIn:** [Profile](https://www.linkedin.com/in/dan-v-89120511)  
-**Signal:** danmercurius.01  
-**Location:** Berlin, Germany
+**Email:** dan@moonity.org | **Signal:** danmercurius.01 | **LinkedIn:** [Profile](https://www.linkedin.com/in/dan-v-89120511) | **Location:** Berlin, Germany
 
 ---
 
