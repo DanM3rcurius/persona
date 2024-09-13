@@ -1,8 +1,8 @@
 # **DAN VEROWSKI**
 
 **Email:** dan@moonity.org
-**LinkedIn:** [linkedin.com/in/dan-v-89120511](https://www.linkedin.com/in/dan-v-89120511)  
-**Phone:** +49 173 5372 566  
+**LinkedIn:** [Profile](https://www.linkedin.com/in/dan-v-89120511)  
+**Signal:** danmercurius.01  
 **Location:** Berlin, Germany
 
 ---
@@ -136,7 +136,8 @@ Available upon request.
 ## **CONTACT**
 
 - **Email:** dan@moonity.org
-- **LinkedIn:** [linkedin.com/in/dan-v-89120511](https://www.linkedin.com/in/dan-v-89120511)
+- **Signal:** danmercurius.01
+- **LinkedIn:** [Profile](https://www.linkedin.com/in/dan-v-89120511)
 - **Twitter:** [@TAROrdinals](https://twitter.com/TAROrdinals) / [@SaferSats](https://twitter.com/SaferSats)
 
 ---
