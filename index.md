@@ -1,6 +1,6 @@
 # **DAN VEROWSKI**
 
-**Email:** dan@moonity.org | **Signal:** danmercurius.01 | **LinkedIn:** [Profile](https://www.linkedin.com/in/dan-v-89120511) | **Location:** Berlin, Germany
+**[Send a virtual owl](mailto:an@moonity.org)** | **Signal:** danmercurius.01 | **LinkedIn:** [Profile](https://www.linkedin.com/in/dan-v-89120511) | **Location:** Berlin, Germany
 
 ---
 
@@ -132,7 +132,7 @@ Available upon request.
 
 ## **CONTACT**
 
-- **Email:** dan@moonity.org
+- **[Send a virtual owl](mailto:an@moonity.org)**
 - **Signal:** danmercurius.01
 - **LinkedIn:** [Profile](https://www.linkedin.com/in/dan-v-89120511)
 - **Twitter:** [@TAROrdinals](https://twitter.com/TAROrdinals) / [@SaferSats](https://twitter.com/SaferSats)
