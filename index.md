@@ -136,7 +136,7 @@ Available upon request.
 
 - **Email:** dan.v@example.com
 - **LinkedIn:** [linkedin.com/in/dan-v-89120511](https://www.linkedin.com/in/dan-v-89120511)
-- **Twitter:** [@TAROrdinals](https://twitter.com/TAROrdinals)
+- **Twitter:** [@TAROrdinals](https://twitter.com/TAROrdinals) | [@SaferSats(https://twitter.com/SaferSats)
 
 ---
 
