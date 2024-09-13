@@ -14,10 +14,6 @@
 Passionate IT professional with over a decade of experience spanning software development, agile methodologies, and blockchain ecosystems. Expertise in business analysis, education, community building, "decentralized" governance, and integrating AI solutions. Seeking an IT role to leverage technical skills and drive innovation.
 
 ---
-<!-- Begin two-column layout --> 
-<div class="columns">
-
-<div class="column">
 
 ## **SKILLS**
 
@@ -50,9 +46,6 @@ Passionate IT professional with over a decade of experience spanning software de
 - Public Speaking & Advocacy
 - Multilingual Communication (English, German, Czech)
 
-</div>
-
-<div class="column">
 
 ## **EXPERIENCE**
 
@@ -115,10 +108,6 @@ Passionate IT professional with over a decade of experience spanning software de
 - Mentored team members on agile principles and best practices.
 - Coordinated with stakeholders to ensure alignment of project goals.
 
-</div> 
-
-</div> 
-<!-- End two-column layout -->
 ---
 
 ## **EDUCATION**
