@@ -3,7 +3,7 @@
 
 # **DAN VEROWSKI**
 
-**[Send a virtual owl](mailto:an@moonity.org)** | **Signal:** danmercurius.01 | **LinkedIn:** [Profile](https://www.linkedin.com/in/dan-v-89120511) | **Location:** Berlin, Germany
+**[Send a virtual owl](mailto:an@moonity.org)** | **Signal:** danmercurius.01 | **[LinkedIn](https://www.linkedin.com/in/dan-v-89120511)** | **Location:** Berlin, Germany
 
 ---
 
