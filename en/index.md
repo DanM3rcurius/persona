@@ -1,11 +1,10 @@
-
 ---
 layout: default
 lang: en
 title: "Home"
 ---
 
-[Deutsch]({{ site.baseurl }}/de/) | [English]({{ site.baseurl }}/en/)
+[Deutsch]({{ site.baseurl }}/../de/) | [English]({{ site.baseurl }})
 
 # **DAN VEROWSKI**
 
@@ -150,6 +149,6 @@ Available upon request.
 
 *"Innovating at the intersection of blockchain and AI to build a decentralized future."*
 
-[Deutsch]({{ site.baseurl }}/de/) | [English]({{ site.baseurl }}/en/)
+[Deutsch]({{ site.baseurl }}/../de/) | [English]({{ site.baseurl }})
 
 
