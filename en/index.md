@@ -1,12 +1,9 @@
-<nav>
-  <ul>
-    <li><a href="/en/">English</a></li>
-    <li><a href="/de/">Deutsch</a></li>
-    <li><a href="#profile">Profile</a></li>
-    <li><a href="#skills">Skills</a></li>
-    <li><a href="#experience">Experience</a></li>
-  </ul>
-</nav>
+---
+layout: default
+lang: en
+title: "Home"
+---
+
 # **DAN VEROWSKI**
 
 **[Send a virtual owl](mailto:an@moonity.org)** | **Signal:** danmercurius.01 | **LinkedIn:** [Profile](https://www.linkedin.com/in/dan-v-89120511) | **Location:** Berlin, Germany

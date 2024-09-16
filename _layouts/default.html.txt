@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title | default: site.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+  <header>
+    <nav>
+      <ul>
+        {% if site.lang != 'en' %}
+          <li><a href="{{ site.baseurl }}/en/">English</a></li>
+        {% endif %}
+        {% if site.lang != 'de' %}
+          <li><a href="{{ site.baseurl }}/de/">Deutsch</a></li>
+        {% endif %}
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    {{ content }}
+  </main>
+
+  <footer>
+    <p>&copy; {{ site.time | date: '%Y' }} Your Name. All rights reserved.</p>
+  </footer>
+</body>
+</html>
