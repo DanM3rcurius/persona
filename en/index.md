@@ -7,6 +7,7 @@
     <li><a href="#experience">Experience</a></li>
   </ul>
 </nav>
+
 # **DAN VEROWSKI**
 
 **[Send a virtual owl](mailto:an@moonity.org)** | **Signal:** danmercurius.01 | **LinkedIn:** [Profile](https://www.linkedin.com/in/dan-v-89120511) | **Location:** Berlin, Germany
