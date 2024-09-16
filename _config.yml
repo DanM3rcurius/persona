@@ -1,16 +1,17 @@
 remote_theme: pages-themes/midnight@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+- jekyll-multiple-languages-plugin
+
 title: [Dan's CV] 
 description: [A short story in bullet points]
-plugins:  
-- jekyll-multiple-languages-plugin
+
 languages:  
 - en  
 - de
 default_lang: en
 
-  defaults:
+defaults:
   - scope:
       path: ""
     values:
