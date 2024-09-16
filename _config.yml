@@ -26,6 +26,3 @@ defaults:
     values:
       lang: de
 
-
-baseurl: ""
-url: "https://danm3rcurius.github.io"
