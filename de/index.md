@@ -3,7 +3,8 @@ layout: default
 lang: de
 title: "Startseite"
 ---
-[Deutsch]({{ site.baseurl }}/de/) | [English]({{ site.baseurl }}/en/)
+
+[Deutsch]({{ site.baseurl }}/../de/) | [English]({{ site.baseurl }}/en/)
 
 # **DAN VEROWSKI**
 
@@ -149,4 +150,4 @@ Auf Anfrage erhältlich.
 
 *"Innovation an der Schnittstelle von Blockchain und KI, um eine dezentrale Zukunft zu gestalten."*
 
-
+[Deutsch]({{ site.baseurl }}/../de/) | [English]({{ site.baseurl }}/en/)
