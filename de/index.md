@@ -3,7 +3,7 @@
 
 # **DAN VEROWSKI**
 
-**[Eine virtuelle Eule senden](mailto:an@moonity.org)** | **[LinkedIn](https://www.linkedin.com/in/dan-v-89120511)**   | **Phone:** +49 173 5372 566   | **Location:** Berlin, Germany
+**[Eine virtuelle Eule senden](mailto:an@moonity.org)** | **[LinkedIn](https://www.linkedin.com/in/dan-v-89120511)**   | **Signal:** danmercurius.01    | **Location:** Berlin, Germany
 
 ## **PROFIL**
 
