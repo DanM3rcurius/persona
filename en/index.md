@@ -1,8 +1,11 @@
+
 ---
 layout: default
 lang: en
 title: "Home"
 ---
+
+
 
 # **DAN VEROWSKI**
 
