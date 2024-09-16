@@ -1,11 +1,9 @@
-<nav>
-  <ul>
-    <li><a href="/en/">English</a></li>
-    <li><a href="/de/">Deutsch</a></li>
-    <li><a href="#profile">Profil</a></li>
-    <li><a href="#skills">Fähigkeiten</a></li>
-    <li><a href="#experience">Erfahrung</a></li>
-  </ul>
+---
+layout: default
+lang: de
+title: "Startseite"
+---
+
 </nav>
 # **DAN VEROWSKI**
 
