@@ -5,7 +5,7 @@ lang: en
 title: "Home"
 ---
 
-
+[Deutsch]({{ site.baseurl }}/de/) | [English]({{ site.baseurl }}/en/)
 
 # **DAN VEROWSKI**
 
