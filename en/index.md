@@ -1,10 +1,7 @@
 <nav>
   <ul>
-    <li><a href="/en/">English</a></li>
-    <li><a href="/de/">Deutsch</a></li>
-    <li><a href="#profile">Profile</a></li>
-    <li><a href="#skills">Skills</a></li>
-    <li><a href="#experience">Experience</a></li>
+    <li><a href="persona/en/">English</a></li> |
+    <li><a href="persona/de/">Deutsch</a></li>
   </ul>
 </nav>
 
