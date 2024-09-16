@@ -1,4 +1,5 @@
-[Deutsch](./) | [English](../en/)
+[Deutsch]({{ site.baseurl }}/de/) | [English]({{ site.baseurl }}/en/)
+
 
 # **DAN VEROWSKI**
 
@@ -142,4 +143,5 @@ Available upon request.
 ---
 
 *"Innovating at the intersection of blockchain and AI to build a decentralized future."*
-[Deutsch](../de/) | [English](./)
+[Deutsch]({{ site.baseurl }}/de/) | [English]({{ site.baseurl }}/en/)
+
