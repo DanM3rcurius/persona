@@ -1,9 +1,4 @@
-<nav>
-  <ul>
-    <li><a href="/en/">English</a></li>
-    <li><a href="/de/">Deutsch</a></li>
-  </ul>
-</nav>
+[Deutsch](./) | [English](../en/)
 
 # **DAN VEROWSKI**
 
