@@ -4,7 +4,7 @@ lang: en
 title: "Home"
 ---
 
-[Deutsch]({{ site.baseurl }}/../de/) | [English]({{ site.baseurl }})
+[Deutsch]({{ site.baseurl }}/de/) | [English]({{ site.baseurl }}/en/)
 
 # **DAN VEROWSKI**
 
@@ -12,7 +12,7 @@ title: "Home"
 
 ---
 
-## **PROFILE**
+## **PROFILE** {#profile}
 
 **Blockchain Innovator** | **Business Analyst** | **AI Enthusiast**
 
@@ -20,7 +20,7 @@ Passionate IT professional with over a decade of experience spanning software de
 
 ---
 
-## **SKILLS**
+## **SKILLS** {#skills}
 
 ### **Programming & Technical**
 
@@ -52,7 +52,7 @@ Passionate IT professional with over a decade of experience spanning software de
 - Multilingual Communication (English, German, French)
 
 
-## **EXPERIENCE**
+## **EXPERIENCE** {#experience}
 
 ### **Founder & Developer, FUDPLUG (@SaferSats)**
 *2023 – Present | Berlin, Germany*
@@ -149,6 +149,4 @@ Available upon request.
 
 *"Innovating at the intersection of blockchain and AI to build a decentralized future."*
 
-[Deutsch]({{ site.baseurl }}/../de/) | [English]({{ site.baseurl }})
-
-
+[Deutsch]({{ site.baseurl }}/de/) | [English]({{ site.baseurl }}/en/)
