@@ -27,5 +27,5 @@ defaults:
       lang: de
 
 
-baseurl: ""
+baseurl: "/persona"
 url: "https://danm3rcurius.github.io"

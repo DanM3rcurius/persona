@@ -149,4 +149,5 @@ Auf Anfrage erhältlich.
 
 *"Innovation an der Schnittstelle von Blockchain und KI, um eine dezentrale Zukunft zu gestalten."*
 
-[Deutsch](./) | [English](../en/)
+[Deutsch]({{ site.baseurl }}/de/) | [English]({{ site.baseurl }}/en/)
+
