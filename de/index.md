@@ -1,17 +1,15 @@
----
-layout: default
-lang: de
-title: "Startseite"
----
-
-[Deutsch]({{ site.baseurl }}/de/) | [English]({{ site.baseurl }}/en/)
-
+<nav>
+  <ul>
+    <li><a href="/en/">English</a></li>
+    <li><a href="/de/">Deutsch</a></li>
+  </ul>
+</nav>
 
 # **DAN VEROWSKI**
 
 **[Eine virtuelle Eule senden](mailto:an@moonity.org)** | **[LinkedIn](https://www.linkedin.com/in/dan-v-89120511)**   | **Phone:** +49 173 5372 566   | **Location:** Berlin, Germany
 
-## **PROFIL** {#profile}
+## **PROFIL**
 
 ---
 
@@ -21,7 +19,7 @@ Leidenschaftlicher IT-Experte mit über einem Jahrzehnt Erfahrung in Softwareent
 
 ---
 
-## **FÄHIGKEITEN** {#skills}
+## **FÄHIGKEITEN**
 
 ### **Programmierung & Technik**
 
@@ -54,7 +52,7 @@ Leidenschaftlicher IT-Experte mit über einem Jahrzehnt Erfahrung in Softwareent
 
 ---
 
-## **BERUFSERFAHRUNG** {#experience}
+## **BERUFSERFAHRUNG**
 
 ### **Gründer & Entwickler, FUDPLUG (@SaferSats)**
 *2023 – Heute | Berlin, Deutschland*
@@ -151,4 +149,4 @@ Auf Anfrage erhältlich.
 
 *"Innovation an der Schnittstelle von Blockchain und KI, um eine dezentrale Zukunft zu gestalten."*
 
-[Deutsch]({{ site.baseurl }}/de/) | [English]({{ site.baseurl }}/en/)
+[Deutsch](./) | [English](../en/)
