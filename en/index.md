@@ -77,7 +77,7 @@ Passionate IT professional with over a decade of experience spanning software de
 *2018 – 2019 | Berlin, Germany*
 
 - Co-founded Cannomy, a Kickstarter-like platform enabling crypto payments for cannabis ventures.
-- Completed a blockchain startup accelerator program in December 2019.
+- [Completed a blockchain startup accelerator program in December 2019.]([url](https://www.globenewswire.com/news-release/2019/12/13/1960565/0/en/AE-Ventures-to-Invest-in-Four-new-Blockchain-Startups.html))
 - Led business model development and market analysis.
 - Engaged in investor relations; managed funding discussions prior to COVID-19 disruptions.
 
