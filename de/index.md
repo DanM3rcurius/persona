@@ -43,6 +43,8 @@ Leidenschaftlicher IT-Experte mit über einem Jahrzehnt Erfahrung in Softwareent
 - Community Engagement & Leadership
 - Projektmanagement
 - Geschäftsanalysen
+- Gewaltfreie Kommunikation
+- "Community Care"
 - Öffentliches Reden & Advocacy
 - Mehrsprachige Kommunikation (Englisch, Deutsch, Französisch)
 
