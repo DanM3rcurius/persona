@@ -64,7 +64,7 @@ Leidenschaftlicher IT-Experte mit über einem Jahrzehnt Erfahrung in Softwareent
 *2023 – Heute | Berlin, Deutschland*
 
 - Erschuf die "The Eternal Tarot" Ordinals Collection [ [Parent Inscription](https://ordinals.com/inscription/69027003) / [Sammlung](https://magiceden.io/ordinals/marketplace/the-eternal-tarot) ]
-- Erforschte künstlerische Ausdrucksformen auf der Bitcoin-Blockchain.
+- Erforschte künstlerische Ausdrucksformen auf dem Medium Bitcoin.
 - Kombinierte Blockchain-Technologie mit visueller Kunst zur Erstellung einzigartiger digitaler Werke.
 
 ### **Community-Kollaborator, Cardano-Ökosystem**
@@ -78,7 +78,7 @@ Leidenschaftlicher IT-Experte mit über einem Jahrzehnt Erfahrung in Softwareent
 *2018 – 2019 | Berlin, Deutschland*
 
 - Mitbegründete Cannomy, eine Kickstarter-ähnliche Plattform, die Krypto-Zahlungen für Cannabis-Projekte ermöglicht.
-- Absolvierte ein Blockchain-Startup-Beschleunigerprogramm im Dezember 2019.
+- [Absolvierte und gewinnt ein Blockchain-Startup-Accelerator im Dezember 2019](https://www.globenewswire.com/news-release/2019/12/13/1960565/0/en/AE-Ventures-to-Invest-in-Four-new-Blockchain-Startups.html).
 - Leitete die Entwicklung des Geschäftsmodells und Marktanalysen.
 - Führte Investor Relations; verwaltete Finanzierungsdiskussionen vor den COVID-19-Unterbrechungen.
 
