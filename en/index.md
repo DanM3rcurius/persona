@@ -43,6 +43,8 @@ Passionate IT professional with over a decade of experience spanning software de
 - Community Engagement & Leadership
 - Project Management
 - Business Analysis
+- Community Care
+- Nonviolent Communication
 - Public Speaking & Advocacy
 - Multilingual Communication (English, German, French)
 
